@@ -16,7 +16,7 @@ function Home() {
               <div className="card-body">
                 <div className="d-flex justify-content-between align-items-center mb-2">
                   <span className="badge bg-danger">-50%</span>
-                  <span className="text-muted"><s>$100.00</s></span>
+                  <span className="text-muted"><s>PHP 100.00</s></span>
                 </div>
                 <h5 className="card-title placeholder-glow">
                   <span className="placeholder col-6"></span>
@@ -27,7 +27,7 @@ function Home() {
                   <span className="placeholder col-4"></span>
                 </p>
                 <div className="d-flex justify-content-between align-items-center">
-                  <h5 className="text-danger m-0">$50.00</h5>
+                  <h5 className="text-danger m-0">PHP 50.00</h5>
                   <button className="btn btn-dark btn-sm">Add to Cart</button>
                 </div>
               </div>
